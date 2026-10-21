@@ -1,0 +1,11 @@
+{
+  "org": "joblib",
+  "repo": "loky",
+  "versions": [
+    {
+      "commit": "09f70d66b58962636c6a0adb8e5487d453ece859",
+      "tag": "",
+      "parsed_at": "2026-10-21T20:10:58.904148+00:00"
+    }
+  ]
+}
