@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/joblib/loky/commit/09f70d66b58962636c6a0adb8e5487d453ece859",
       "git:hexsha": "09f70d66b58962636c6a0adb8e5487d453ece859",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-21T20:10:58.903431+00:00"
     },
     {
       "@id": "https://repolex.ai/r/joblib/loky/commit/a052ce5d84eb61d02249539b96451ddde5579a7d",
